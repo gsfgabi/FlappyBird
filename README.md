@@ -16,5 +16,5 @@ Ele cobre conceitos importantes como controle de eventos, física básica e dete
 </div>
 <br>
 
-![giphy](https://github.com/gsfgabi/FlappyBird/assets/89532466/b9805d16-1587-4cbf-b481-1a23431e0e1d)
+![giphy (1)](https://github.com/gsfgabi/FlappyBird/assets/89532466/7457a4ab-37ed-4fba-a254-385bb8e6e870)
 
