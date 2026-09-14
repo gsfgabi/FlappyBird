@@ -1,4 +1,7 @@
 #  FlappyBird
+
+![Tela inicial do FlappyBird](docs/screenshots/01-jogo.png)
+
 FlappyBird é um jogo onde o jogador controla um pássaro que deve passar por entre colunas de canos sem colidir com eles. O pássaro "voa" ao ser clicado, 
 e cai devido à gravidade. A pontuação do jogador aumenta à medida que ele passa por mais canos.
 
